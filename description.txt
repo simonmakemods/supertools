@@ -1,0 +1,2 @@
+This Mod adds an axe, a sword, a pickaxe and a shovel.
+They are very fast!
